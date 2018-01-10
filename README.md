@@ -48,3 +48,4 @@ To monitor what I did?
     $ docker service ls
     $ docker service ps getstartedlab_web
     $ docker container ls -q
+    $ docker-machine ls
